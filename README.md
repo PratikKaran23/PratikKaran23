@@ -1,4 +1,4 @@
-### Hi there, PRATIK KARAN - aka [Whoami][website] 👋
+### Hi there, PRATIK KARAN - aka [Whoami]👋
 
 [![INSTAGRAM](https://img.shields.io/website?label=Insta.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/__raavan.official__/)
 
