@@ -1,7 +1,7 @@
 ### Hi there, PRATIK KARAN - aka [Whoami][website] 👋
 
 [![INSTAGRAM](https://img.shields.io/website?label=Insta.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/__raavan.official__/)
-[![TELE Follow](https://img.shields.io/telegram/follow/TELE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://t.me/raavan_bin)
+[![TELE Follow](https://img.shields.io/telegramfollow/TELE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://t.me/raavan_bin)
 
 ## I'm a Hacker, Cracker, Developer, and Teacher!
 
