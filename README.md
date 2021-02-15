@@ -3,7 +3,7 @@
 [![INSTAGRAM](https://img.shields.io/website?label=Insta.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/__raavan.official__/)
 
 
-## I'm a Hacker, Cracker, Developer, and Teacher!
+## I'm a Hacker, Cracker, Developer, and Student!
 
 - 🔭 I’m currently working on a PyCharm|Kali|Tails|Brackets!
 - 🌱 I’m currently learning CyberSecurity 🤣
