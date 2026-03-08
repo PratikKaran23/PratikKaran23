@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=ECECEC&center=true&vCenter=true&width=600&height=60&lines=Pratik+Karan" alt="Pratik Karan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=999999&color=ECECEC&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Pratik+Karan" alt="Pratik Karan" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=800&color=CC1111&center=true&vCenter=true&width=660&height=36&lines=500%2B+Vulnerabilities+Found+%26+Reported;%231+Hall+of+Fame+%40+Qwilr;OSCP+%C2%B7+OSWE+%C2%B7+BSCP+Certified;Web+%C2%B7+API+%C2%B7+Mobile+%C2%B7+Thick+Client+Pentesting;HackerOne%3A+bloody_eye;AI-Assisted+Recon+%26+Payload+Generation" alt="Cycling achievements" />
 
