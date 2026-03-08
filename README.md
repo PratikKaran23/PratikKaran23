@@ -2,6 +2,8 @@
 
 <img src="./banner.svg" alt="Pratik Karan — Security Consultant" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=CC1111&center=true&vCenter=true&width=600&height=40&lines=500%2B+Vulnerabilities+Found+%26+Reported;%231+Hall+of+Fame+%40+Qwilr;OSCP+%C2%B7+OSWE+%C2%B7+BSCP+Certified;Web+%C2%B7+API+%C2%B7+Mobile+%C2%B7+Thick+Client+Pentesting;HackerOne%3A+bloody_eye;AI-Assisted+Recon+%26+Payload+Generation" alt="Cycling achievements" />
+
 </div>
 
 <br/>
