@@ -75,9 +75,11 @@ uid=1337(pratik) gid=1337(security) groups=oscp,oswe,bscp,bugbounty,pentester
 
 <div align="center">
 
-![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikKaran23&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PratikKaran23&theme=dark-minimalist&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikKaran23&layout=compact&theme=chartreuse-dark&hide_border=true)
+[![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikKaran23&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=00ff99&title_color=00ff99)](https://github.com/PratikKaran23)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikKaran23&layout=compact&theme=dark&hide_border=true&title_color=00ff99)](https://github.com/PratikKaran23)
 
 </div>
 
