@@ -1,110 +1,81 @@
 <div align="center">
 
-```
-██████╗ ██████╗  █████╗ ████████╗██╗██╗  ██╗    ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝    ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║
-██████╔╝██████╔╝███████║   ██║   ██║█████╔╝     █████╔╝ ███████║██████╔╝███████║██╔██╗ ██║
-██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║██╔═██╗     ██╔═██╗ ██╔══██║██╔══██╗██╔══██║██║╚██╗██║
-██║     ██║  ██║██║  ██║   ██║   ██║██║  ██╗    ██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=600&lines=Pratik+Karan;Security+Consultant;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
 
-### Security Consultant · Penetration Tester · Bug Bounty Hunter
+<br/>
 
-[![OSCP](https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/)
-[![OSWE](https://img.shields.io/badge/OSWE-Certified-red?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/)
-[![BSCP](https://img.shields.io/badge/BSCP-Certified-orange?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=6E6E6E&center=true&vCenter=true&width=500&lines=OSCP+%C2%B7+OSWE+%C2%B7+BSCP+%E2%80%94+Prescient+Security" alt="Role" />
 
 </div>
 
----
-
-## 👤 whoami
-
-```bash
-$ cat /etc/passwd | grep pratik
-pratik:x:1337:1337:Security Consultant @ Prescient Security:/home/pratik:/bin/zsh
-
-$ id
-uid=1337(pratik) gid=1337(security) groups=oscp,oswe,bscp,bugbounty,pentester
-```
-
-> Security Consultant at **Prescient Security** specializing in Web, API, Mobile & Thick Client Penetration Testing.  
-> OSCP | OSWE | BSCP certified. 500+ vulnerabilities discovered. HackerOne hunter.
-
----
-
-## 🎯 Stats That Matter
+<br/>
 
 <div align="center">
 
-| 🔍 Vulnerabilities Found | 🏆 Hall of Fame | 🐛 Bug Bounty Platform |
-|:---:|:---:|:---:|
-| **500+** | **#1 @ Qwilr** | **HackerOne** `bloody_eye` |
+[![](https://img.shields.io/badge/-OSCP-0a0a0a?style=flat-square&logo=offensive-security&logoColor=E8E8E8)](https://www.offensive-security.com/)&nbsp;
+[![](https://img.shields.io/badge/-OSWE-0a0a0a?style=flat-square&logo=offensive-security&logoColor=E8E8E8)](https://www.offensive-security.com/)&nbsp;
+[![](https://img.shields.io/badge/-BSCP-0a0a0a?style=flat-square&logo=portswigger&logoColor=E8E8E8)](https://portswigger.net/)&nbsp;
+[![](https://img.shields.io/badge/-HackerOne%20%2F%20bloody__eye-0a0a0a?style=flat-square&logo=hackerone&logoColor=E8E8E8)](https://hackerone.com/bloody_eye)&nbsp;
+[![](https://img.shields.io/badge/-X%20%2F%20pratikkarankr-0a0a0a?style=flat-square&logo=x&logoColor=E8E8E8)](https://x.com/pratikkarankr)
 
 </div>
 
----
-
-## 🧰 Skill Set
-
-### 🔴 Offensive Security
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-Expert-red?style=flat-square)
-![API Security](https://img.shields.io/badge/API%20Security-Expert-red?style=flat-square)
-![Mobile Pentesting](https://img.shields.io/badge/Mobile%20Pentesting-Advanced-orange?style=flat-square)
-![Thick Client](https://img.shields.io/badge/Thick%20Client-Advanced-orange?style=flat-square)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Active-brightgreen?style=flat-square)
-
-### 🛠 Tools & Techniques
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Pro-FF6633?style=flat-square&logo=portswigger)
-![OWASP](https://img.shields.io/badge/OWASP-Top%2010-blue?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Rolling-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Automation-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-Mobile%20Hooking-red?style=flat-square)
-![Nuclei](https://img.shields.io/badge/Nuclei-Recon-9B59B6?style=flat-square)
-
-### 🧠 Current Focus
-![AI-Assisted Recon](https://img.shields.io/badge/AI--Assisted%20Recon-Active-00ff99?style=flat-square)
-![JS Analysis](https://img.shields.io/badge/JS%20Analysis%20%26%20Endpoint%20Discovery-Active-00ff99?style=flat-square)
-![WAF Bypass Research](https://img.shields.io/badge/WAF%20Bypass%20Research-Active-00ff99?style=flat-square)
+<br/>
 
 ---
 
-## 📊 Activity & Presence
+### About
 
-<div align="center">
+Security Consultant at **Prescient Security** with deep focus on Web, API, Mobile, and Thick Client penetration testing. Discovered and reported **500+ vulnerabilities** across public and private programs. Ranked **#1 on Qwilr's Security Hall of Fame**. Active bug bounty hunter on HackerOne as `bloody_eye`.
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-bloody__eye-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/bloody_eye)
-[![Repos](https://img.shields.io/badge/Public%20Repos-20-00ff99?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikKaran23?tab=repositories)
-[![Bugs Found](https://img.shields.io/badge/Vulnerabilities%20Found-500%2B-red?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://hackerone.com/bloody_eye)
-[![Hall of Fame](https://img.shields.io/badge/Hall%20of%20Fame-%231%20Qwilr-gold?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/PratikKaran23)
-
-</div>
+Currently exploring how AI augments offensive security workflows — specifically AI-assisted recon, JS analysis for endpoint discovery, and intelligent payload generation for WAF bypass.
 
 ---
 
-## 🏆 Certifications & Achievements
+### Expertise
 
-| Certification | Issuer | Domain |
+```
+Web Application Security      ██████████████████░░  Advanced
+API Security Testing          ██████████████████░░  Advanced
+Mobile Pentesting (Android)   ████████████████░░░░  Advanced
+Thick Client Assessment       ███████████████░░░░░  Intermediate+
+Bug Bounty Hunting            ██████████████████░░  Advanced
+AI-Assisted Recon             ████████████░░░░░░░░  Developing
+```
+
+---
+
+### Certifications
+
+| | Certification | Issuer |
 |---|---|---|
-| **OSCP** — Offensive Security Certified Professional | Offensive Security | Network & Web Exploitation |
-| **OSWE** — Offensive Security Web Expert | Offensive Security | Advanced Web Attacks |
-| **BSCP** — Burp Suite Certified Practitioner | PortSwigger | Web Application Security |
-
-🏅 **#1 Rank** — Qwilr Security Hall of Fame  
-🐛 **500+ Vulnerabilities** — Reported & Validated  
-🎯 **HackerOne** — Active Hunter (`bloody_eye`)
+| `01` | Offensive Security Certified Professional — **OSCP** | Offensive Security |
+| `02` | Offensive Security Web Expert — **OSWE** | Offensive Security |
+| `03` | Burp Suite Certified Practitioner — **BSCP** | PortSwigger |
 
 ---
 
-## 🌐 Connect
+### Notable
+
+- **#1** — Qwilr Security Hall of Fame
+- **500+** — Validated vulnerabilities reported
+- Active hunter on **HackerOne** · handle: `bloody_eye`
+- Consultant at **Prescient Security** — Web · API · Mobile · Thick Client
+
+---
+
+### Stack
 
 <div align="center">
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-bloody__eye-494649?style=for-the-badge&logo=hackerone)](https://hackerone.com/bloody_eye)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pratikkaran)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white)&nbsp;
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logoColor=white)&nbsp;
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)&nbsp;
+![Frida](https://img.shields.io/badge/Frida-FF2D55?style=flat-square&logoColor=white)&nbsp;
+![Nuclei](https://img.shields.io/badge/Nuclei-1A1A2E?style=flat-square&logoColor=white)&nbsp;
+![Caido](https://img.shields.io/badge/Caido-0a0a0a?style=flat-square&logoColor=white)
 
 </div>
 
@@ -112,8 +83,6 @@ uid=1337(pratik) gid=1337(security) groups=oscp,oswe,bscp,bugbounty,pentester
 
 <div align="center">
 
-*"The quieter you become, the more you are able to hear."*
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=PratikKaran23.PratikKaran23)
+<sub>Security Consultant · Penetration Tester · Bug Bounty Hunter</sub>
 
 </div>
