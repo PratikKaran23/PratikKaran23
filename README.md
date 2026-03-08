@@ -38,9 +38,9 @@ uid=1337(pratik) gid=1337(security) groups=oscp,oswe,bscp,bugbounty,pentester
 
 <div align="center">
 
-| 🔍 Vulnerabilities Found | 🏆 Hall of Fame | 🐛 Bug Bounty Platform | 📍 Location |
-|:---:|:---:|:---:|:---:|
-| **500+** | **#1 @ Qwilr** | **HackerOne** `bloody_eye` | **Vasai Virar, India** |
+| 🔍 Vulnerabilities Found | 🏆 Hall of Fame | 🐛 Bug Bounty Platform |
+|:---:|:---:|:---:|
+| **500+** | **#1 @ Qwilr** | **HackerOne** `bloody_eye` |
 
 </div>
 
