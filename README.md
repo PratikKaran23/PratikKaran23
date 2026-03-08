@@ -32,14 +32,14 @@ Currently exploring how AI augments offensive security workflows — specificall
 
 ### Expertise
 
-```
-Web Application Security      ██████████████████░░  Advanced
-API Security Testing          ██████████████████░░  Advanced
-Mobile Pentesting (Android)   ████████████████░░░░  Advanced
-Thick Client Assessment       ███████████████░░░░░  Intermediate+
-Bug Bounty Hunting            ██████████████████░░  Advanced
-AI-Assisted Recon             ████████████░░░░░░░░  Developing
-```
+| Domain | Specialization | Level |
+|---|---|---|
+| **Web Application Security** | OWASP Top 10, Logic Flaws, Auth Bypass, IDOR | ![Advanced](https://img.shields.io/badge/Advanced-cc1111?style=flat-square) |
+| **API Security** | REST, GraphQL, SOAP — Auth, Rate Limit, Injection | ![Advanced](https://img.shields.io/badge/Advanced-cc1111?style=flat-square) |
+| **Mobile Pentesting** | Android APK reverse engineering, Frida, SSL Pinning | ![Advanced](https://img.shields.io/badge/Advanced-cc1111?style=flat-square) |
+| **Thick Client Assessment** | .NET, Java, traffic interception, binary analysis | ![Intermediate+](https://img.shields.io/badge/Intermediate+-992222?style=flat-square) |
+| **Bug Bounty Hunting** | HackerOne — 500+ validated vulns, #1 Qwilr HoF | ![Advanced](https://img.shields.io/badge/Advanced-cc1111?style=flat-square) |
+| **AI-Assisted Recon** | JS analysis, endpoint discovery, payload generation | ![Developing](https://img.shields.io/badge/Developing-444444?style=flat-square) |
 
 ---
 
