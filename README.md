@@ -71,13 +71,14 @@ uid=1337(pratik) gid=1337(security) groups=oscp,oswe,bscp,bugbounty,pentester
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Activity & Presence
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PratikKaran23&theme=dark-minimalist&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99)](https://git.io/streak-stats)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PratikKaran23&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/PratikKaran23)
+[![HackerOne](https://img.shields.io/badge/HackerOne-bloody__eye-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/bloody_eye)
+[![Repos](https://img.shields.io/badge/Public%20Repos-20-00ff99?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikKaran23?tab=repositories)
+[![Bugs Found](https://img.shields.io/badge/Vulnerabilities%20Found-500%2B-red?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://hackerone.com/bloody_eye)
+[![Hall of Fame](https://img.shields.io/badge/Hall%20of%20Fame-%231%20Qwilr-gold?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/PratikKaran23)
 
 </div>
 
