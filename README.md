@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=600&lines=Pratik+Karan;Security+Consultant;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=6E6E6E&center=true&vCenter=true&width=500&lines=OSCP+%C2%B7+OSWE+%C2%B7+BSCP+%E2%80%94+Prescient+Security" alt="Role" />
+<img src="./banner.svg" alt="Pratik Karan — Security Consultant" width="100%"/>
 
 </div>
 
